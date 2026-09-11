@@ -24,3 +24,7 @@ adb install -r build/app/outputs/flutter-apk/app-release.apk
 ```bash
 flutter test
 ```
+
+## 라이선스
+
+[MIT](./LICENSE)
